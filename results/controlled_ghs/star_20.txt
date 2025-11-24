@@ -1,0 +1,5 @@
+[Root] MST edge count: 19
+[Root] Total merging time (seconds): 0.002604
+[Root] MST adjacency matrix written to results/controlled_ghs/mst_out_star_20.txt
+[Root] Total messages sent: 194
+[Root] Total messages received: 266
